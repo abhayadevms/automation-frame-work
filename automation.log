@@ -1,0 +1,116 @@
+08/26/2020 10:28:48 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 10:28:48 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 10:28:52 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 10:28:52 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 10:28:52 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 10:28:52 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 10:28:52 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 10:28:58 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 10:43:02 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 10:43:03 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 10:43:07 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 10:43:07 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 10:43:07 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 10:43:07 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 10:43:07 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 10:43:13 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:00:12 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 11:00:12 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 11:00:19 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 11:00:19 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 11:00:19 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 11:00:20 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 11:00:20 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 11:00:23 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:00:23 PM - LoginPage - INFO: Element not found
+08/26/2020 11:00:23 PM - LoginPage - INFO: Element not found
+08/26/2020 11:02:09 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 11:02:09 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 11:02:14 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 11:02:14 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 11:02:14 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 11:02:14 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 11:02:14 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 11:02:16 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:02:16 PM - LoginPage - INFO: Element not found
+08/26/2020 11:02:16 PM - LoginPage - INFO: Element not found
+08/26/2020 11:03:07 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 11:03:07 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 11:03:11 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 11:03:11 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 11:03:11 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 11:03:11 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 11:03:11 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 11:03:14 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:03:14 PM - LoginPage - INFO: Element not found
+08/26/2020 11:03:14 PM - LoginPage - INFO: Element not found
+08/26/2020 11:05:48 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 11:05:48 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 11:05:52 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 11:05:52 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 11:05:52 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 11:05:52 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 11:05:52 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 11:05:55 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:05:55 PM - LoginPage - INFO: Element not found
+08/26/2020 11:05:55 PM - LoginPage - INFO: Element not found
+08/26/2020 11:07:44 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 11:07:45 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 11:07:49 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 11:07:49 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 11:07:49 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 11:07:49 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 11:07:49 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 11:07:51 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:07:51 PM - LoginPage - INFO: Element not found
+08/26/2020 11:07:51 PM - LoginPage - INFO: Element not found
+08/26/2020 11:08:48 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 11:08:49 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 11:08:53 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 11:08:53 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 11:08:53 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 11:08:53 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 11:08:53 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 11:08:57 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:08:57 PM - LoginPage - INFO: Element not found
+08/26/2020 11:08:57 PM - LoginPage - INFO: Element not found
+08/26/2020 11:10:38 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 11:10:38 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 11:10:42 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 11:10:42 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 11:10:42 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 11:10:42 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 11:10:42 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 11:10:44 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:10:44 PM - LoginPage - INFO: Element Found: //div[@class='alert alert-danger']locator type:xpath
+08/26/2020 11:10:44 PM - LoginPage - INFO: Element Found
+08/26/2020 11:12:08 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 11:12:08 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 11:12:12 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 11:12:12 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 11:12:12 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 11:12:12 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 11:12:12 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 11:12:15 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:12:15 PM - LoginPage - INFO: Element Found: //div[@class='alert alert-danger']locator type:xpath
+08/26/2020 11:12:15 PM - LoginPage - INFO: Element Found
+08/26/2020 11:12:50 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 11:12:51 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 11:12:54 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 11:12:55 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 11:12:55 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 11:12:55 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 11:12:55 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 11:12:58 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:12:58 PM - LoginPage - INFO: Element Found: //div[@class='alert alert-danger']locator type:xpath
+08/26/2020 11:12:58 PM - LoginPage - INFO: Element Found
+08/26/2020 11:14:01 PM - LoginPage - INFO: Element Found: Loginlocator type:linktext
+08/26/2020 11:14:02 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: linktext
+08/26/2020 11:14:05 PM - LoginPage - INFO: Element Found: user_emaillocator type:id
+08/26/2020 11:14:05 PM - LoginPage - INFO: send data on element with locator: user_email locatorType: id
+08/26/2020 11:14:05 PM - LoginPage - INFO: Element Found: user_passwordlocator type:id
+08/26/2020 11:14:05 PM - LoginPage - INFO: send data on element with locator: user_password locatorType: id
+08/26/2020 11:14:05 PM - LoginPage - INFO: Element Found: commitlocator type:name
+08/26/2020 11:14:08 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+08/26/2020 11:14:08 PM - LoginPage - INFO: Element Found: //div[@class='alert alert-danger']locator type:xpath
+08/26/2020 11:14:08 PM - LoginPage - INFO: Element Found
